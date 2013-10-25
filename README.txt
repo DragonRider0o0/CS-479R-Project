@@ -1,0 +1,3 @@
+CS-479R--Project
+=================
+We will analyze financial data for app sales (sample) by Quimera Interactive (Michael Richardson) in the Windows Store. Some information about the Windows store overall (population) is available through the developer portal and the website appannie.com. There are currently 2625 transactions in the data, transactions include: the date, app name, transaction type, country/regiona, app proceeds(USD),  and the payment date.  We will perform statistical analysis to discover predictive trends in sales.  We will be looking at sales overall, sales by category, sales by day of week, sales by day of month, sales by month, sales by app, and sales by country.  We will also be looking for trends in trial upgrades and refunds made.  
